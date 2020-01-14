@@ -10,4 +10,4 @@ puts "Et en minutes ça fait : #{number_of_minutes_in_an_hour * number_of_hours_
 
 # Lance-le programme. Que se passe-t-il ? Peux-tu l'expliquer ?
 # Astuce : même si ton programme affiche une interface en français (les puts), les variables doivent avoir des noms en anglais, afin d'éviter un franglais bizarre. Même si Marc utilise dans son cours des noms de variables en français, je pense que lui-même doit interdire ceci à Drivy et imposer des noms de variables anglais
-# Il faut déclarer et donner une valeur à la variable oubliée 
+# --> Il faut déclarer et donner une valeur à la variable oubliée 
